@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Kunal Chand</h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">Full Stack Developer (<a href="https://github.com/kunalchand?tab=repositories">My GitHub Repositories</a>)</h3>
+
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchand&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchand" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot Project**
+- 🔭 I’m currently working on a **Spring Boot Project**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Java, Spring MVC**
 
 - 📫 How to reach me **kunalchand234@gmail.com**
 
+- 👨‍💻 All my projects are available at [**my GitHub Repositories**](https://github.com/kunalchand?tab=repositories)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunal-chand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-chand" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kunalchand5913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kunalchand5913" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kunalchand234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunalchand234" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kunalchand5913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kunalchand5913" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

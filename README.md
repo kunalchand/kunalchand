@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Chand</h1>
-<h3 align="center">Full Stack Developer (<a href="https://github.com/kunalchand?tab=repositories">My GitHub Repositories</a>)</h3>
+<h3 align="center">Full Stack Developer<br>(<a href="https://github.com/kunalchand?tab=repositories">My GitHub Repositories</a>)</h3>
 
 <h3 align="center"></h3>
 

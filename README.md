@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently grinding **data structure and algorithm** problems on LeetCode
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about anything about **Java**
 
 - 📫 How to reach me **kunalchand234@gmail.com**
 

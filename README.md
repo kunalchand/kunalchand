@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchand&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchand" /> </p>
 
-- 🔭 I’m currently working on a **Spring Boot Project**
+- 🔭 I’m currently **exploring open source projects**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently grinding **data structure and algorithm** problems on LeetCode
 
-- 💬 Ask me about **Java, Spring MVC**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **kunalchand234@gmail.com**
 

@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently **exploring open source projects**
 
-- 🌱 I’m currently grinding **data structure and algorithm** problems on LeetCode
+- 🌱 I’m currently grinding **data structure and algorithm** problems on [LeetCode](https://github.com/kunalchand/LeetCode/tree/master/Problems)
 
 - 💬 Ask me about anything about **Java**
 

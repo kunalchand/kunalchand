@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchand&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchand" /> </p>
 
-- 🔭 I’m currently **exploring open source projects**
+- 🔭 I’m currently **learning python**
 
 - 🌱 I’m currently grinding **data structure and algorithm** problems on [LeetCode](https://github.com/kunalchand/LeetCode/tree/master/Problems)
 

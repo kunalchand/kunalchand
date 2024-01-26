@@ -22,9 +22,6 @@
 <a href="mailto:kunalchand234@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="Kunal Chand" height="25" width="35" />
 </a>
-<a href="tel:7162925504" target="blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/phone-icon-1024x1024-bn4mirqi.png" alt="Your Name" height="35" width="35" />
-</a>
 </p>
 
 <p>

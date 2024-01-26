@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchand&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchand" /> </p>
 
-- 🔭 I’m currently **learning python**
+- 🔭 I’m currently **learning Python**
 
-- 🌱 I’m currently grinding **data structure and algorithm** problems on [LeetCode](https://github.com/kunalchand/LeetCode/tree/master/Problems)
+- 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
 
 - 💬 Ask me about anything about **Java**
 
@@ -19,11 +19,21 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunal-chand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-chand" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kunalchand234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunalchand234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kunalchand5913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kunalchand5913" height="30" width="40" /></a>
+<a href="mailto:kunalchand234@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="Kunal Chand" height="25" width="35" />
+</a>
+<a href="tel:7162925504" target="blank">
+    <img align="center" src="https://static-00.iconduck.com/assets.00/phone-icon-1024x1024-bn4mirqi.png" alt="Your Name" height="35" width="35" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchand&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="kunalchand" width="500px" height="auto"/>
+</p>
+
+[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalchand&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="left">Familiar Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -44,7 +54,3 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> </a> 
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchand&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="kunalchand" /></p>
-

@@ -4,7 +4,7 @@
 
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchand&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchand" /> </p>
+[![Followers](https://img.shields.io/github/followers/kunalchand?style=social)]()
 
 - 🔭 I’m currently **learning Python**
 
@@ -25,7 +25,7 @@
 </p>
 
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchand&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="kunalchand" width="500px" height="auto"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchand&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=radical" alt="kunalchand" width="500px" height="auto"/>
 </p>
 
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalchand&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)

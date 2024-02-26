@@ -6,7 +6,7 @@
 
 [![Followers](https://img.shields.io/github/followers/kunalchand?style=social)]()
 
-- 🔭 I’m currently **learning Python**
+- 🔭 I’m currently learning **Python**
 
 - 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
 

@@ -4,7 +4,7 @@
 
 <h3 align="center"></h3>
 
-[![Followers](https://img.shields.io/github/followers/kunalchand?style=social)]()
+[![Followers](https://img.shields.io/github/followers/kunalchand?style=social)](https://github.com/kunalchand?tab=followers)
 
 - 🔭 I’m currently learning **Python**
 

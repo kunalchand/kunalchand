@@ -12,7 +12,7 @@
 
 - 💬 Ask me about anything about **Java**
 
-- 📫 How to reach me **kunalchand234@gmail.com**
+- 📫 How to reach me **kchand@buffalo.edu**
 
 - 👨‍💻 All my projects are available at [**my GitHub Repositories**](https://github.com/kunalchand?tab=repositories)
 

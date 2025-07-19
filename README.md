@@ -6,11 +6,9 @@
 
 [![Followers](https://img.shields.io/github/followers/kunalchand?style=social)](https://github.com/kunalchand?tab=followers)
 
-- 🔭 I’m currently learning **Python**
+- 🔭 I’m currently learning **System Design**
 
 - 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
-
-- 💬 Ask me about anything about **Java**
 
 - 📫 How to reach me **kchand@buffalo.edu**
 

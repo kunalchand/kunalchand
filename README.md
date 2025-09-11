@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently solving **data structure and algorithm** problems on **LeetCode**
 
-- 📫 How to reach me **kchand@buffalo.edu**
+- 📫 How to reach me **kunalchand.sde@gmail.com**
 
 - 👨‍💻 All my projects are available at [**my GitHub Repositories**](https://github.com/kunalchand?tab=repositories)
 

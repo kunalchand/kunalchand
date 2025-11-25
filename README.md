@@ -22,9 +22,9 @@
 </a>
 </p>
 
-<p>
+<!-- <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchand&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html,css&theme=radical" alt="kunalchand" width="500px" height="auto"/>
-</p>
+</p> -->
 
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalchand&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

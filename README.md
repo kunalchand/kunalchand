@@ -15,12 +15,12 @@
 
 - 🔭 I’m currently learning **System Design**
 - 🌱 I’m currently solving **Data Structures and Algorithms** on **LeetCode**
-- 📫 How to reach me: **kunalchand.sde@gmail.com**
+- 📫 How to reach me: **(+1) (716) 292-5504**
 - 👨‍💻 All my projects are available at [**My GitHub Repositories**](https://github.com/kunalchand?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kunal-chand" target="_blank">
+  <a href="https://linkedin.com/in/" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="kunal-chand"
